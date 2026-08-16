@@ -1,17 +1,17 @@
-# sleeptimer_ui
+# SleepTimerUI
 
-A new Flutter project.
+一个Flutter项目，用于电脑端实现睡眠定时器功能。
 
-## Getting Started
+## 功能
+- 支持自定义定时时间
+- 支持任务暂停和继续
+- 支持选择执行模式（关机、重启、睡眠、锁屏）
 
-This project is a starting point for a Flutter application.
+## 后续计划
+- 支持局域网控制
+- 支持Steam下载监听
 
-A few resources to get you started if this is your first Flutter project:
+## 声明
+- 小白一个用于学习flutter的项目，不涉及任何商业用途。有啥不足或者建议兄弟们给提提
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
